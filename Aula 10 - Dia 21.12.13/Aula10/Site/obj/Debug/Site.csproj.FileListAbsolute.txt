@@ -1,0 +1,9 @@
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\Site\bin\Site.dll
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\Site\bin\Site.pdb
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\Site\obj\Debug\Site.dll
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\Site\obj\Debug\Site.pdb
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\Site\bin\DAL.dll
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\Site\bin\DAL.pdb
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\Site\obj\Debug\RdlCompile.cache
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\Site\obj\Debug\RdlCompile.compiled

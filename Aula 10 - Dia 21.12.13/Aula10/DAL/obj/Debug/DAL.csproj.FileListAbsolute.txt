@@ -1,0 +1,4 @@
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\DAL\bin\Debug\DAL.dll
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\DAL\bin\Debug\DAL.pdb
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\DAL\obj\Debug\DAL.dll
+C:\Users\Coti\Desktop\Aula_21.12.13\Aula10\DAL\obj\Debug\DAL.pdb

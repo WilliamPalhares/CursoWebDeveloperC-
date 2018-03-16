@@ -1,0 +1,15 @@
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\DAL\bin\Debug\DAL.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\DAL\bin\Debug\DAL.pdb
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\DAL\obj\Debug\DAL.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\DAL\obj\Debug\DAL.pdb
+C:\Users\Note-HP\Desktop\Aula_03.05.14\Aula24\DAL\bin\Debug\DAL.dll
+C:\Users\Note-HP\Desktop\Aula_03.05.14\Aula24\DAL\bin\Debug\DAL.pdb
+C:\Users\Note-HP\Desktop\Aula_03.05.14\Aula24\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Note-HP\Desktop\Aula_03.05.14\Aula24\DAL\obj\Debug\DAL.dll
+C:\Users\Note-HP\Desktop\Aula_03.05.14\Aula24\DAL\obj\Debug\DAL.pdb
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 24 - Dia 03.05.14\Aula24\DAL\bin\Debug\DAL.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 24 - Dia 03.05.14\Aula24\DAL\bin\Debug\DAL.pdb
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 24 - Dia 03.05.14\Aula24\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 24 - Dia 03.05.14\Aula24\DAL\obj\Debug\DAL.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 24 - Dia 03.05.14\Aula24\DAL\obj\Debug\DAL.pdb

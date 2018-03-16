@@ -1,0 +1,5 @@
+C:\Users\Coti\Desktop\Aula_14.12.13\Aula09\DAL\bin\Debug\DAL.dll
+C:\Users\Coti\Desktop\Aula_14.12.13\Aula09\DAL\bin\Debug\DAL.pdb
+C:\Users\Coti\Desktop\Aula_14.12.13\Aula09\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Coti\Desktop\Aula_14.12.13\Aula09\DAL\obj\Debug\DAL.dll
+C:\Users\Coti\Desktop\Aula_14.12.13\Aula09\DAL\obj\Debug\DAL.pdb

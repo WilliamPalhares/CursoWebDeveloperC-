@@ -1,0 +1,52 @@
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\Site.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\Site.pdb
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\Newtonsoft.Json.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Net.Http.Formatting.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Helpers.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Http.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Http.WebHost.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Mvc.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Razor.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.WebPages.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\Newtonsoft.Json.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Net.Http.Formatting.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Helpers.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Http.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Http.WebHost.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Mvc.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.Razor.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.WebPages.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\obj\Debug\Site.dll
+C:\Users\Note-HP\Desktop\Aula_26.04.14\Aula23\Site\obj\Debug\Site.pdb
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\Site.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\Site.pdb
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\Newtonsoft.Json.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Net.Http.Formatting.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Helpers.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Http.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Http.WebHost.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Mvc.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Razor.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.WebPages.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\Newtonsoft.Json.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Net.Http.Formatting.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Helpers.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Http.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Http.WebHost.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Mvc.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.Razor.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.WebPages.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\obj\Debug\Site.dll
+C:\Users\William\Dropbox\WEBDEVELOPER C#.NET\Aula 23 - Dia 26.04.14\Aula23\Aula23\Site\obj\Debug\Site.pdb

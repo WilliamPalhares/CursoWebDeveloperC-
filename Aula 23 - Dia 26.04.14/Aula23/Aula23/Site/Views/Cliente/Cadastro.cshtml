@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cadastro</title>
+
+    <link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/bootstrap/js/jquery-1.11.0.min.js"></script>
+    <script src="~/bootstrap/js/bootstrap.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready( //página for carregada...
+            function () {  //faça...
+                
+                //criar um evento
+                $("#btnpesquisa").click( //quando o botão for clicado...
+                    function () { //faça...
+                        
+                        $.ajax(
+                            {
+                                type: "POST", //envio de dados
+                                url: "/Cliente/PesquisarEndereco", //método do controle
+                                data: "cep=" + $("#cep").val(), //variavel
+                                success: function (dados) { //resposta bem sucedida do servidor
+
+                                    $("#endereco").css("display", "block"); //exibir o campo
+                                    $("#endereco").val(dados);
+                                },
+                                error: function (e) { //resposta mal sucedida do servidor
+                                    alert("Erro: " + e.status);
+                                }
+                            }
+                        );
+                    }
+                );
+
+            }
+        );
+    </script>
+
+</head>
+<body>
+
+    <div class="well">
+        
+        <button class="btn btn-primary" data-toggle="modal" data-target="#janela">
+            Cadastrar Novo Cliente
+        </button>
+
+    </div>
+
+    <!-- Janela de diálogo -->
+    <div id="janela" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4>Formulário de Cadastro de Clientes</h4>
+                </div>
+
+                <div class="modal-body">
+
+                    <div class="form-group">
+                        <input type="text" id="nome" required="required"
+                               placeholder="Nome do Cliente" title="Por favor, informe seu nome."
+                               class="form-control" />
+                    </div>
+
+                    <div class="form-group">
+                        <input type="email" id="email" required="required"
+                               placeholder="Endereço de Email" title="Por favor, informe seu email."
+                               class="form-control" />
+                    </div>
+
+                    <div class="form-group">
+                        <input type="text" id="cep" required="required"
+                               placeholder="CEP" title="Por favor, informe seu cep."
+                               class="form-control" style="display: inline; width: 300px;"/>
+
+                        <button id="btnpesquisa" class="btn btn-info">
+                            Pesquisar Endereço
+                        </button>
+
+                    </div>
+
+                    <div class="form-group">
+                        <textarea id="endereco" class="form-control" required="required"
+                          title="Por favor, informe seu endereço" style="display: none;"></textarea>
+                    </div>                    
+
+                </div>
+
+                <div class="modal-footer">
+
+                    <div class="form-group">
+                        <button class="btn btn-success">
+                            Cadastrar Cliente
+                        </button>
+
+                        <button class="btn btn-danger" data-dismiss="modal">
+                            Fechar Janela
+                        </button>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>

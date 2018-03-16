@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Site", "Site\Site.csproj", "{AB5B8419-D3EF-4CE3-AE91-5D1B92E17DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{12E2232F-6CC9-444E-BE68-803286F3EBC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB5B8419-D3EF-4CE3-AE91-5D1B92E17DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5B8419-D3EF-4CE3-AE91-5D1B92E17DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5B8419-D3EF-4CE3-AE91-5D1B92E17DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5B8419-D3EF-4CE3-AE91-5D1B92E17DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E2232F-6CC9-444E-BE68-803286F3EBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E2232F-6CC9-444E-BE68-803286F3EBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E2232F-6CC9-444E-BE68-803286F3EBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E2232F-6CC9-444E-BE68-803286F3EBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

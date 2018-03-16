@@ -1,0 +1,4 @@
+C:\Users\Note-HP\Desktop\Aula_03.05.14\Aula24\DAL\bin\Release\DAL.dll
+C:\Users\Note-HP\Desktop\Aula_03.05.14\Aula24\DAL\bin\Release\DAL.pdb
+C:\Users\Note-HP\Desktop\Aula_03.05.14\Aula24\DAL\obj\Release\DAL.dll
+C:\Users\Note-HP\Desktop\Aula_03.05.14\Aula24\DAL\obj\Release\DAL.pdb
